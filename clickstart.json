@@ -7,7 +7,7 @@
     "runtime": {
         "type": "tomcat",
         "app-parameters" : {
-            "jvmPermSpace" : "100",
+            "jvmPermSize" : "100",
             "securityMode" : "PRIVATE"
         }
     }
