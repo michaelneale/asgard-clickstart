@@ -1,0 +1,14 @@
+{
+    "id": "asgard",
+    "name": "Asgard - manage EC2 cloud",
+    "app-package": "https://s3.amazonaws.com/cloudbees-downloads/clickstart/asgard.war",
+    "description": "Asgard from Netflix is a tool to manage your own cloud on Amazon EC2",
+    "icon" : "https://raw.github.com/CloudBees-community/simple-war-clickstart/master/icon.png",    
+    "runtime": {
+        "type": "tomcat",
+        "app-parameters" : {
+            "jvmPermSpace" : "100",
+            "securityMode" : "PRIVATE"
+        }
+    }
+}
