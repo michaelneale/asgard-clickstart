@@ -1,4 +1,6 @@
 Asgard - manage your EC2 cloud
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/4e9b12c6-dd0e-4a4f-94cd-46370a6cc2c1.svg?orgId=451115019187)](https://app.soluble.cloud/repos/details/github.com/michaelneale/asgard-clickstart?orgId=451115019187)  
 =================
 
 Run asgard on cloudbees. Asgard by netflix. 
